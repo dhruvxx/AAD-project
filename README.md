@@ -1,4 +1,4 @@
-# aad-project
+# AAD-project
 A novel that dramatizes the process of algorithm optimization and improvement in order to further understanding of algorithm analysis and design.
 
 # Creators
